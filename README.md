@@ -3,5 +3,3 @@
 ```
 $ sudo rm -rf /*
 ```
-
-- Look at the boxes below :3
