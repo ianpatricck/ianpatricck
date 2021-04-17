@@ -1,7 +1,12 @@
-![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+### Hi, i'm Ian Patrick :vulcan_salute:
 
-> [Other projects on Bitbucket](https://bitbucket.org/ianpatricck/)
+Living in Brazil :brazil: <br>
+Fullstack Dev :man_technologist:
 
-```
-$ sudo rm -rf /*
-```
+### Social
+
+- :notebook: [LinkedIn](https://www.linkedin.com/in/ian-patrick-baba5519b/)
+- :blue_book: [Bitbucket](https://bitbucket.org/ianpatricck/)
+- :notebook_with_decorative_cover: [Portfolio](https://www.behance.net/ianpatricck)
+
+```$ sudo rm -rf /*```
