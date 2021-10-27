@@ -3,8 +3,6 @@
 Living in Brazil <br>
 Fullstack Dev :man_technologist:
 
-https://linktr.ee/ianpatricck
-
 ### Social
 
 <a href="https://www.instagram.com/ian.patricck/">
