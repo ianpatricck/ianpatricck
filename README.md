@@ -17,10 +17,6 @@ Fullstack Dev :man_technologist:
   <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
 </a>
 
-<a href="https://www.behance.net/ianpatricck">
-  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
-</a>
-
 <a href="https://discord.gg/6uyzNVyDDG">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
