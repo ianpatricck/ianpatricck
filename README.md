@@ -1,7 +1,7 @@
 ### Hi, i'm Ian Patrick :vulcan_salute:
 
 🇧🇷 Living in Brazil <br>
-:man_technologist: Fullstack Dev 
+:man_technologist: Fullstack Developer
 
 ### Social
 
