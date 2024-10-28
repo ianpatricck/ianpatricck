@@ -36,6 +36,6 @@
 
 ### :art: Front-End Development
 
-[![FrontEnd](https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,tailwindcss,sass,vite,styledcomponents,materialui,vue,react,nextjs,nuxtjs,webpack,babel,redux,figma)](https://skillicons.dev)
+[![FrontEnd](https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,tailwindcss,sass,vite,styledcomponents,materialui,react,nextjs,webpack,babel,redux,figma)](https://skillicons.dev)
 
 ---
