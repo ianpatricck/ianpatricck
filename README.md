@@ -8,7 +8,7 @@
 👨‍💻 Software Enginner & Full-Stack Web Developer <br>
 💻 Computer Science
 
-- I am a CS studetent and developer passionate about creating solutions and spreading knowledge. My focus is to share ideas and projects about __web development__, following the best development practices and working collaboratively.
+- I am a CS student and developer passionate about creating solutions and spreading knowledge. My focus is to share ideas and projects about __web development__, following the best development practices and working collaboratively.
 
 - I have expertise in user interface building tools such as __React.js__ or __Next.js__, as well as prototyping wireframes using Figma. I also have experience with the __Laravel__ and __Nest.js__ frameworks to complement the server-side development stack.
 
