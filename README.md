@@ -10,7 +10,7 @@
 
 - I am a CS student and developer passionate about creating solutions and spreading knowledge. My focus is to share ideas and projects about __web development__, following the best development practices and working collaboratively.
 
-- I have expertise in user interface building tools such as __React.js__ or __Next.js__, as well as prototyping wireframes using Figma. I also have experience with the __Laravel__ and __Nest.js__ frameworks to complement the server-side development stack.
+- I have expertise in user interface building tools such as __React.js__ or __Vue.js__, as well as prototyping wireframes using Figma. I also have experience with the __Laravel__ and __Nest.js__ frameworks to complement the server-side development stack.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ianpatricck&hide=prs&show_icons=true&theme=radical)
 
@@ -36,6 +36,6 @@
 
 ### :art: Front-End Development
 
-[![FrontEnd](https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,tailwindcss,sass,vite,styledcomponents,materialui,react,nextjs,webpack,babel,redux,figma)](https://skillicons.dev)
+[![FrontEnd](https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,tailwindcss,sass,vite,styledcomponents,materialui,react,vue,webpack,babel,redux,figma)](https://skillicons.dev)
 
 ---
