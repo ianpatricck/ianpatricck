@@ -16,7 +16,7 @@
 
 ---
 
-## :page_facing_up: Socials
+## :incoming_envelope: Find me at:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ianpatricck/)
 [![bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)](https://bitbucket.org/ianpatricck)
@@ -26,15 +26,15 @@
 
 ---
 
-## :rocket: Languages And Tools
+## :rocket: Programming languages and frameworks
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianpatricck&layout=donut&theme=radical)
 
-### :battery: Back-End Development
+### :battery: Back-End development
 
 [![BackEnd](https://skillicons.dev/icons?i=c,cpp,php,python,nodejs,express,nest,graphql,laravel,nginx,npm,redis,mongodb,mysql,sqlite,postgres,rabbitmq,heroku,kubernetes,docker,prisma,sequelize,vercel,firebase,jest,cypress)](https://skillicons.dev)
 
-### :art: Front-End Development
+### :art: Front-End development
 
 [![FrontEnd](https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,tailwindcss,sass,vite,styledcomponents,materialui,react,vue,webpack,babel,redux,figma)](https://skillicons.dev)
 
