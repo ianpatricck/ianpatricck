@@ -32,7 +32,7 @@
 
 ### :battery: Back-End development
 
-[![BackEnd](https://skillicons.dev/icons?i=c,cpp,php,python,nodejs,express,nest,graphql,laravel,symfony,nginx,npm,redis,mongodb,mysql,sqlite,postgres,rabbitmq,heroku,aws,kubernetes,docker,prisma,sequelize,vercel,firebase,jest,githubactions)](https://skillicons.dev)
+[![BackEnd](https://skillicons.dev/icons?i=c,cpp,php,nodejs,express,nest,graphql,laravel,symfony,nginx,npm,redis,mongodb,mysql,sqlite,postgres,rabbitmq,heroku,aws,kubernetes,docker,prisma,sequelize,vercel,firebase,jest,githubactions)](https://skillicons.dev)
 
 ### :art: Front-End development
 
