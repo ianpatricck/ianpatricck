@@ -1,6 +1,6 @@
 # Hi :vulcan_salute:, I'm Ian Patrick!
 
-![cover](https://media.licdn.com/dms/image/v2/D4D16AQEUxmgD_LhNSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719349541871?e=1740009600&v=beta&t=yqGPVpWrw2OFmC7Ajc_IkCgAMOqYvljieo5aO8858Q0)
+![cover](cover.jpeg)
 
 ---
 
