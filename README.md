@@ -8,11 +8,19 @@
 👨‍💻 Software Enginner & Full-Stack Web Developer <br>
 💻 Computer Science
 
-- I am a CS student and developer passionate about creating solutions and spreading knowledge. My focus is to share ideas and projects about __web development__, following the best development practices and working collaboratively.
+- I am a developer passionate about creating solutions and sharing knowledge. My focus is on sharing ideas and projects about development, following best practices and working collaboratively.
 
-- I have expertise in user interface building tools such as __React.js__, as well as prototyping wireframes using __Figma__. I also have experience with the Back-End frameworks __Laravel__, __Symfony__, __Slim__, __Express.js__ and __Nest.js__ to complement the server-side development stack.
+- I have experience with user interface building tools such as React.js and also have knowledge of back-end frameworks like __Laravel__, __Symfony__, __Slim__, __Express.js__, and __Nest.js__, which complement server-side development.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ianpatricck&hide=prs&show_icons=true&theme=radical)
+
+---
+
+### :battery: Stack Development
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianpatricck&layout=donut&theme=radical)
+
+[![BackEnd](https://skillicons.dev/icons?i=c,cpp,php,nodejs,express,nest,laravel,symfony,nginx,redis,mongodb,mysql,sqlite,postgres,aws,kubernetes,docker,jest,html,js,ts,css,bootstrap,tailwindcss,sass,react,jest,vitest)](https://skillicons.dev)
 
 ---
 
@@ -23,19 +31,5 @@
 [![stackoverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/12345845/ianpatricck)
 [![Devto](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ianpatricck)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ianpatricck)
-
----
-
-## :rocket: Programming languages and frameworks
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianpatricck&layout=donut&theme=radical)
-
-### :battery: Back-End development
-
-[![BackEnd](https://skillicons.dev/icons?i=c,cpp,php,nodejs,express,nest,graphql,laravel,symfony,nginx,npm,redis,mongodb,mysql,sqlite,postgres,rabbitmq,heroku,aws,kubernetes,docker,prisma,sequelize,firebase,jest,githubactions)](https://skillicons.dev)
-
-### :art: Front-End development
-
-[![FrontEnd](https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,tailwindcss,sass,vite,styledcomponents,materialui,react,webpack,babel,redux,figma,jest,cypress,electron,threejs,vitest)](https://skillicons.dev)
 
 ---
