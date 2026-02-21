@@ -12,13 +12,13 @@
 
 - I have experience with user interface building tools such as React.js and also have knowledge of back-end frameworks like __Laravel__, __Symfony__, __Slim__, __Express.js__, and __Nest.js__, which complement server-side development.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ianpatricck&hide=prs&show_icons=true&theme=radical)
+![GitHub stats](https://ianpatricck-stats.vercel.app/api?username=ianpatricck&hide=prs&show_icons=true&theme=radical)
 
 ---
 
 ### :battery: Stack Development
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianpatricck&layout=donut&theme=radical)
+![Top Langs](https://ianpatricck-stats.vercel.app/api/top-langs/?username=ianpatricck&layout=donut&theme=radical)
 
 [![BackEnd](https://skillicons.dev/icons?i=c,cpp,php,nodejs,express,nest,laravel,symfony,nginx,redis,mongodb,mysql,sqlite,postgres,aws,kubernetes,docker,jest,html,js,ts,css,bootstrap,tailwindcss,sass,react,jest,vitest)](https://skillicons.dev)
 
